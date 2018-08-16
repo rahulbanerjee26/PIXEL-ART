@@ -8,3 +8,5 @@
 
 
 **Note**: Selecting a new dimension mid-way will reset the color of all the boxes to white 
+
+It can be found at https://rahulbanerjee26.github.io/PIXEL-ART/
